@@ -19,3 +19,7 @@ eroger+ge
 
 
 aplico el hotfix
+
+
+
+aplico el hotfix2

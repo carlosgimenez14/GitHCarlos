@@ -12,3 +12,6 @@ caracterisca 2
 
 
 sigo haciendo cambios
+
+
+comit 1 fastforward
